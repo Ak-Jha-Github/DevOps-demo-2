@@ -1,3 +1,3 @@
 from flask import
-app = Flask (__name)
+apwwwwwwwp = Flask (__name)
 
